@@ -131,6 +131,9 @@
         "group_1_YqhPwC",
         "group_2_TwDGaJ"
       ],
+      "custom_css": [
+        ".header-advanced-account {width: 156px;}"
+      ],
       "name": "Header - Advanced",
       "settings": {
         "layout": "style1",
