@@ -55,6 +55,7 @@
       "blocks": {
         "group_1_YqhPwC": {
           "type": "group_1",
+          "disabled": true,
           "settings": {
             "container": "1170",
             "padding_full_width": 0,
