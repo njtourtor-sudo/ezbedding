@@ -32,7 +32,7 @@
       ],
       "settings": {
         "layout": "scroll",
-        "enable_close": false,
+        "enable_close": true,
         "color_text": "#b05d5d",
         "bg_color_text": "#ffe8e8",
         "bg_color_text_gradient": "",
