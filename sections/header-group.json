@@ -70,7 +70,7 @@
           "settings": {
             "customer_service_text": "<p>Customer Service 091 234-ELLA</p>",
             "text_color": "#323232",
-            "show_language_currency": true,
+            "show_language_currency": false,
             "language_currency_color": "#323232",
             "show_search": true,
             "search_color": "#323232",
@@ -82,6 +82,7 @@
         },
         "5939cbc0-a9fd-48e0-adcd-1d945e05dc99": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "free_shipping_text": "<p>Free shipping on All Orders. No Minimum Purchase</p>",
             "text_color": "#232323",
@@ -95,7 +96,7 @@
             "cart_color": "#323232",
             "cart_color_item": "#323232",
             "cart_bg_item": "#ffe5e8",
-            "show_wishlist": true,
+            "show_wishlist": false,
             "wishlist_color": "#323232",
             "show_wishlist_number": false,
             "wishlist_color_item": "#ffffff",
