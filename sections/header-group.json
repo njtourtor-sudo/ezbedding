@@ -30,9 +30,10 @@
       "block_order": [
         "60fe30b1-fa66-4bd9-9d3f-21fc97aa738c"
       ],
+      "disabled": true,
       "settings": {
         "layout": "scroll",
-        "enable_close": true,
+        "enable_close": false,
         "color_text": "#b05d5d",
         "bg_color_text": "#ffe8e8",
         "bg_color_text_gradient": "",
