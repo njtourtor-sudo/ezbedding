@@ -2051,7 +2051,7 @@
         "avatar_margin_bottom": 10,
         "color_heading": "#202020",
         "fontsize_heading": 20,
-        "heading_margin_bottom": 14,
+        "heading_margin_bottom": 4,
         "heading_font_weight": "400",
         "color_sub_heading": "#808080",
         "fontsize_sub_heading": 13,
