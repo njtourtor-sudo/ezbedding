@@ -444,13 +444,13 @@
     "spotlight_block_bRUEF7": {
       "type": "spotlight-block",
       "blocks": {
-        "image_eCtbBd": {
+        "image_LrbezQ": {
           "type": "image",
           "settings": {
             "enable_image": true,
             "title_align": "center",
             "enable_absolute": true,
-            "enable_absolute_mobile": false,
+            "enable_absolute_mobile": true,
             "bg_color_content": "",
             "bg_color_content_mb": "",
             "align_items": "center",
@@ -466,7 +466,7 @@
             "font_weight_sub_title": "500",
             "mg_bottom_sub_title": 10,
             "title": "Sheet Sets",
-            "color_title": "#ffffff",
+            "color_title": "#232323",
             "fontsize_title": 16,
             "fontsize_title_mb": 20,
             "font_weight_title": "500",
@@ -611,7 +611,7 @@
         }
       },
       "block_order": [
-        "image_eCtbBd",
+        "image_LrbezQ",
         "image_inUyzc",
         "image_jrrdXC"
       ],
