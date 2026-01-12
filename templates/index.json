@@ -389,7 +389,7 @@
         "sl_icon_color": "#232323",
         "bg_color": "#e11106",
         "color_title": "#232323",
-        "color_title_mb": "",
+        "color_title_mb": "#232323",
         "fontsize_title": 16,
         "fontsize_title_mb": 22,
         "margin_bottom_title": 45,
