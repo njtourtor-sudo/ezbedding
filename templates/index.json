@@ -193,7 +193,7 @@
             "enable_image": true,
             "title_align": "center",
             "enable_absolute": true,
-            "enable_absolute_mobile": false,
+            "enable_absolute_mobile": true,
             "bg_color_content": "",
             "bg_color_content_mb": "",
             "align_items": "center",
