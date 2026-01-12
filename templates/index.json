@@ -1936,6 +1936,88 @@
         "mg_bottom_mobile": 50
       }
     },
+    "customer_review_block_hARiY8": {
+      "type": "customer-review-block",
+      "blocks": {
+        "review_N6fAhV": {
+          "type": "review",
+          "settings": {
+            "heading": "Awesome...",
+            "sub_heading": "",
+            "rating": "star5",
+            "name": "",
+            "date": "Wednesday, Jan 26, 2019",
+            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
+          }
+        }
+      },
+      "block_order": [
+        "review_N6fAhV"
+      ],
+      "name": "t:sections.customer_review.presets.name",
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "section_style": "style_1",
+        "review_bg": "#fafafa",
+        "review_bg_gradient": "",
+        "enable_heading_style_2": false,
+        "review_title": "Top Reviews",
+        "color_title": "#232323",
+        "mg_bottom_title": 18,
+        "fontsize_title": 16,
+        "fontsize_title_mb": 16,
+        "review_des": "",
+        "color_des": "#3c3c3c",
+        "margin_bottom_des": 35,
+        "fontsize_des": 16,
+        "title_align": "center",
+        "block_layout_style": "layout1",
+        "review_rows": "1",
+        "show_arrow": true,
+        "center_mode": false,
+        "l4_bg_color": "#f1f1f1",
+        "l4_grid_gap": 30,
+        "l4_padding": 15,
+        "l4_border_radius": 5,
+        "l4_content_align": "center",
+        "show_avatar": true,
+        "avatar_margin_bottom": 10,
+        "color_heading": "#202020",
+        "fontsize_heading": 20,
+        "heading_margin_bottom": 14,
+        "heading_font_weight": "400",
+        "color_sub_heading": "#808080",
+        "fontsize_sub_heading": 13,
+        "sub_heading_margin_bottom": 20,
+        "color_name": "#202020",
+        "fontsize_name": 14,
+        "name_margin_bottom": 0,
+        "color_date": "#808080",
+        "fontsize_date": 13,
+        "color_body": "#202020",
+        "fontsize_body": 16,
+        "body_line_text": "6",
+        "body_margin_bottom": 24,
+        "color_icon": "#fff",
+        "bg_color_icon": "#cbcbcb",
+        "star_font_size": 25,
+        "star_margin_bottom": 0,
+        "start_position": "below_title",
+        "star_color": "#000000",
+        "star_empty_color": "#cccccc",
+        "scroll_height": 4,
+        "scroll_track_bg": "#f1f1f1",
+        "scroll_thumb_color": "#000",
+        "scroll_thumb_hover_color": "#444",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50
+      }
+    },
     "policies_block_Aqhfgc": {
       "type": "policies-block",
       "blocks": {
@@ -2091,6 +2173,7 @@
     "1632296224c9e90203",
     "1632304586ad9b5b3b",
     "1632364695b0f88b4f",
+    "customer_review_block_hARiY8",
     "policies_block_Aqhfgc"
   ]
 }
