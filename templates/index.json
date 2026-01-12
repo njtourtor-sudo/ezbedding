@@ -2201,7 +2201,7 @@
         "policies_block_swipe_on_mobile": "slider",
         "spacing_tablet": 15,
         "spacing_mobile": 10,
-        "policies_bg": "#ffffff",
+        "policies_bg": "#f8f8f8",
         "policies_bg_gradient": "",
         "border": "none",
         "border_color": "#000000",
