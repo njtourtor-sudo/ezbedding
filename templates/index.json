@@ -1443,6 +1443,7 @@
         "e6a19dc6-2aec-4512-92b1-383a2457fd78",
         "70c98209-e556-47a8-905c-ef59a3cbdafa"
       ],
+      "disabled": true,
       "settings": {
         "container": "container",
         "padding_full_width": 0,
@@ -1653,6 +1654,7 @@
         "ffc0ea8b-3b8d-4158-908a-92f9ecdc03b4",
         "10cdc233-191c-45f5-ac5a-a229cee6856b"
       ],
+      "disabled": true,
       "settings": {
         "container": "container",
         "padding_full_width": 0,
