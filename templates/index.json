@@ -1251,7 +1251,7 @@
             "mg_bottom_des": 20,
             "mg_bottom_des_mb": 20,
             "button": "Shop Now",
-            "link": "",
+            "link": "shopify://collections/warm-for-winter",
             "fontsize_btn": 16,
             "button_width": 190,
             "color_button": "#fff",
