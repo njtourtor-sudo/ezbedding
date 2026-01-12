@@ -1956,7 +1956,7 @@
       ],
       "name": "t:sections.customer_review.presets.name",
       "settings": {
-        "container": "1170",
+        "container": "container",
         "padding_full_width": 0,
         "section_style": "style_1",
         "review_bg": "#fafafa",
