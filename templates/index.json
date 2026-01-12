@@ -1942,7 +1942,68 @@
         "review_N6fAhV": {
           "type": "review",
           "settings": {
-            "heading": "Awesome...",
+            "avatar": "shopify://shop_images/bedroom-with-heart-pillows.jpg",
+            "heading": "Awesome title",
+            "sub_heading": "",
+            "rating": "star5",
+            "name": "",
+            "date": "Wednesday, Jan 26, 2019",
+            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
+          }
+        },
+        "review_wfQyKd": {
+          "type": "review",
+          "settings": {
+            "avatar": "shopify://shop_images/bedroom-with-heart-pillows.jpg",
+            "heading": "Awesome title",
+            "sub_heading": "",
+            "rating": "star5",
+            "name": "",
+            "date": "Wednesday, Jan 26, 2019",
+            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
+          }
+        },
+        "review_K8FmJz": {
+          "type": "review",
+          "settings": {
+            "avatar": "shopify://shop_images/bedroom-with-heart-pillows.jpg",
+            "heading": "Awesome title",
+            "sub_heading": "",
+            "rating": "star5",
+            "name": "",
+            "date": "Wednesday, Jan 26, 2019",
+            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
+          }
+        },
+        "review_3EnKXF": {
+          "type": "review",
+          "settings": {
+            "avatar": "shopify://shop_images/bedroom-with-heart-pillows.jpg",
+            "heading": "Awesome title",
+            "sub_heading": "",
+            "rating": "star5",
+            "name": "",
+            "date": "Wednesday, Jan 26, 2019",
+            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
+          }
+        },
+        "review_h8Y9bC": {
+          "type": "review",
+          "settings": {
+            "avatar": "shopify://shop_images/bedroom-with-heart-pillows.jpg",
+            "heading": "Awesome title",
+            "sub_heading": "",
+            "rating": "star5",
+            "name": "",
+            "date": "Wednesday, Jan 26, 2019",
+            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
+          }
+        },
+        "review_xcCyTU": {
+          "type": "review",
+          "settings": {
+            "avatar": "shopify://shop_images/bedroom-with-heart-pillows.jpg",
+            "heading": "Awesome title",
             "sub_heading": "",
             "rating": "star5",
             "name": "",
@@ -1952,7 +2013,12 @@
         }
       },
       "block_order": [
-        "review_N6fAhV"
+        "review_N6fAhV",
+        "review_wfQyKd",
+        "review_K8FmJz",
+        "review_3EnKXF",
+        "review_h8Y9bC",
+        "review_xcCyTU"
       ],
       "name": "t:sections.customer_review.presets.name",
       "settings": {
