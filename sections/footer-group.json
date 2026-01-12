@@ -37,7 +37,7 @@
           "settings": {
             "custom_width": "20",
             "heading": "Customer Service",
-            "menu": "",
+            "menu": "footer-customer-serveice",
             "mg_bottom": 10
           }
         },
