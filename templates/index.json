@@ -2039,7 +2039,7 @@
         "fontsize_des": 16,
         "title_align": "center",
         "block_layout_style": "layout4",
-        "review_rows": "4",
+        "review_rows": "3",
         "show_arrow": true,
         "center_mode": false,
         "l4_bg_color": "#f1f1f1",
