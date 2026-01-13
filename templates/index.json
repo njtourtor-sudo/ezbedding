@@ -2046,7 +2046,7 @@
         "l4_grid_gap": 30,
         "l4_padding": 15,
         "l4_border_radius": 5,
-        "l4_content_align": "center",
+        "l4_content_align": "left",
         "show_avatar": true,
         "avatar_margin_bottom": 10,
         "color_heading": "#202020",
