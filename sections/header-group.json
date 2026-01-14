@@ -227,12 +227,11 @@
         },
         "d3131109-9329-42fa-bbb5-d25d01fd698b": {
           "type": "megamenu_style_1",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
-            "item": "products1",
-            "column": 3,
+            "item": "products",
+            "column": 4,
             "show_banner_1": false,
             "banner_url_1": "shopify://collections/blazero",
             "show_product": true,
