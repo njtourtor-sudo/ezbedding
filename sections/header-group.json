@@ -227,6 +227,7 @@
         },
         "d3131109-9329-42fa-bbb5-d25d01fd698b": {
           "type": "megamenu_style_1",
+          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
