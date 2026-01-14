@@ -131,7 +131,7 @@
     "show_image_loading": true,
     "show_vendor": false,
     "show_price_percent": false,
-    "show_compare": true,
+    "show_compare": false,
     "product_compare_type": "default",
     "show_quick_view": true,
     "product_quick_view_type": "icon",
