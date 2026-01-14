@@ -721,10 +721,10 @@
             "link": "",
             "fontsize_btn": 16,
             "button_width": 125,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#232323",
             "bg_color_button": "#232323",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#232323",
             "bg_color_button_hover": "#232323"
           }
@@ -748,10 +748,10 @@
             "link": "",
             "fontsize_btn": 16,
             "button_width": 125,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#232323",
             "bg_color_button": "#232323",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#232323",
             "bg_color_button_hover": "#232323"
           }
@@ -775,10 +775,10 @@
             "link": "",
             "fontsize_btn": 16,
             "button_width": 125,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#232323",
             "bg_color_button": "#232323",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#232323",
             "bg_color_button_hover": "#232323"
           }
@@ -802,10 +802,10 @@
             "link": "",
             "fontsize_btn": 16,
             "button_width": 125,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#232323",
             "bg_color_button": "#232323",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#232323",
             "bg_color_button_hover": "#232323"
           }
@@ -821,7 +821,7 @@
       "settings": {
         "container": "container",
         "padding_full_width": 0,
-        "background": "#fff",
+        "background": "#ffffff",
         "background_gradient": "",
         "heading": "",
         "font_style_heading": "normal",
