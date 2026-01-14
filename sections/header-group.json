@@ -231,7 +231,7 @@
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
-            "item": "products",
+            "item": "products1",
             "column": 3,
             "show_banner_1": false,
             "banner_url_1": "shopify://collections/blazero",
