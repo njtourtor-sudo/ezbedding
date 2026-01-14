@@ -241,7 +241,6 @@
         },
         "0e4cbbf3-fe5e-4e10-a837-c7651f114767": {
           "type": "megamenu_style_2",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -257,7 +256,6 @@
         },
         "4d022900-5ec2-41b0-89c1-edea75a13c28": {
           "type": "megamenu_style_3",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -280,7 +278,6 @@
         },
         "23b6fa6d-4f30-4a97-8dc1-2c516f8a7f0e": {
           "type": "megamenu_style_1",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -295,7 +292,6 @@
         },
         "3d2520ed-30fc-4694-a7bd-8479ad2d6892": {
           "type": "megamenu_style_1",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1400,
@@ -310,7 +306,6 @@
         },
         "01014ccc-ffe5-4c78-b814-da3ff7d8b45c": {
           "type": "megamenu_style_1",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -325,7 +320,6 @@
         },
         "ec0f7e9f-1012-463e-a1fd-f9225f7f1cc3": {
           "type": "megamenu_style_1",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1400,
