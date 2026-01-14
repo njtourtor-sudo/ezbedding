@@ -4,9 +4,7 @@
 <noscript>{{ 'component-policies-block.css' | asset_url | stylesheet_tag }}</noscript>
 <div class="policies-block policies-border--{{ section.settings.border }} section-block-{{section.id}}{% if settings.banner_animation == 'effect_fade_up' %} scroll-trigger animate--slide-in{% endif %}"
     style="--border-color: {{ section.settings.border_color }};">
-    {%- comment -%} 添加 page-width page-width--narrow 包装以匹配其他page页面的宽度 {%- endcomment -%}
-    <div class="page-width page-width--narrow">
-        <div class="{% if section.settings.container == 'fullwidth' %}container-full{% elsif section.settings.container == '1670' %}container-1670{% elsif section.settings.container == '1470' %}container-1470{% elsif section.settings.container == '1770' %}container-1770{% elsif section.settings.container == '1170' %}container-1170{% else %}container{% endif %}">
+    <div class="{% if section.settings.container == 'fullwidth' %}container-full{% elsif section.settings.container == '1670' %}container-1670{% elsif section.settings.container == '1470' %}container-1470{% elsif section.settings.container == '1770' %}container-1770{% elsif section.settings.container == '1170' %}container-1170{% else %}container{% endif %}">
         <div class="bg-policies-block">
             {%- if swipe == 'slider' -%}
             <banner-slider-component>
@@ -54,7 +52,6 @@
             </banner-slider-component>
             {%- endif -%}
         </div>    
-        </div>
     </div>
 </div>
 <style>
@@ -83,25 +80,6 @@
 
         assign item_color_border = section.settings.item_color_border
     -%}
-
-    /* 定义 page-width 和 page-width--narrow 类以匹配其他page页面的宽度 */
-    .section-block-{{section.id}} .page-width {
-        width: 100%;
-        margin-left: auto;
-        margin-right: auto;
-        padding-left: 15px;
-        padding-right: 15px;
-    }
-    
-    .section-block-{{section.id}} .page-width--narrow {
-        max-width: 800px;
-    }
-    
-    @media (min-width: 1200px) {
-        .section-block-{{section.id}} .page-width--narrow {
-            max-width: 800px;
-        }
-    }
 
     {%- if policies_bg_image != blank -%}
         .section-block-{{section.id}} {background: url({{ policies_bg_image | img_url: '1920x' }});background-repeat: repeat-x;background-size: cover}
