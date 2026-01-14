@@ -160,6 +160,7 @@
         "d935a709-71e0-48ff-8d74-5a367ae6d12d",
         "41adb6e5-e71d-422b-a1e1-d2034c83869c"
       ],
+      "disabled": true,
       "settings": {
         "container": "1170",
         "padding_full_width": 60,
