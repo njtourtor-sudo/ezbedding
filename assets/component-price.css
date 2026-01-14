@@ -76,7 +76,7 @@
     font-family: var(--product-price-font);
     font-size: var(--font-body-size);
     font-weight: var(--font-weight-normal);
-    color: var(--product-compare-price-color);
+    color: #333;
     letter-spacing: 0;
     line-height: var(--product-price-line-height);
     margin: -2px 10px 0 0;
@@ -132,7 +132,7 @@
     text-decoration: line-through;
     /*font-size: calc(var(--font-body-size) + 2px)!important;*/
     font-weight: var(--font-weight-normal)!important;
-    color: var(--product-compare-price-color);
+    color: #333;
 }
 
 .price.price--medium .price-item .money{
