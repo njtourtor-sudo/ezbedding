@@ -251,7 +251,8 @@
         "featured_collection_4Jnbt3"
       ],
       "custom_css": [
-        ".collection-list__item {margin-top: 24px;}"
+        ".collection-list__item {margin-top: 24px;}",
+        "@media screen and (max-width: 749px) {.collection-list.contains-card--collection.collection-list--6-items {display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; /* 可以调整间距 */ } .collection-list__item {margin-top: 0; /* 移除之前添加的margin-top */ width: 100% !important; /* 确保每个item占满网格列 */ }}"
       ],
       "name": "t:sections.main-list-collections.settings.header__2.content",
       "settings": {
