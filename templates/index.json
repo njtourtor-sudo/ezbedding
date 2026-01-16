@@ -280,7 +280,7 @@
         "co_title_font_size": 40,
         "co_title_font_size_mb": 16,
         "co_title_font_weight": "600",
-        "co_title_text_transform": "none",
+        "co_title_text_transform": "capitalize",
         "mg_bottom_co_title": 12,
         "co_title_color": "#ffffff",
         "co_title_color_hover": "",
