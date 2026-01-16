@@ -250,9 +250,7 @@
         "featured_collection_W7yURP",
         "featured_collection_4Jnbt3"
       ],
-      "custom_css": [
-        ".collections-list .collection-list-slider.style_2 .collection-list .collection-list__item:nth-child(6n+1){margin-top: 24px !important;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.main-list-collections.settings.header__2.content",
       "settings": {
         "container": "container",
