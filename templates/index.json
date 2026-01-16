@@ -251,7 +251,7 @@
         "featured_collection_4Jnbt3"
       ],
       "custom_css": [
-        ".collection-list {margin-top: 24px;}"
+        ".collection-list {margin-top: 24px !important;}"
       ],
       "name": "t:sections.main-list-collections.settings.header__2.content",
       "settings": {
