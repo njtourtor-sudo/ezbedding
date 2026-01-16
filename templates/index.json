@@ -389,6 +389,7 @@
         "image_ATCnpb",
         "image_gDfEXw"
       ],
+      "disabled": true,
       "name": "t:sections.brand.presets.name",
       "settings": {
         "container": "container",
