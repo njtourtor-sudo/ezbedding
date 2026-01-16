@@ -250,7 +250,9 @@
         "featured_collection_W7yURP",
         "featured_collection_4Jnbt3"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".collection-list__item {margin-top: 24px;}"
+      ],
       "name": "t:sections.main-list-collections.settings.header__2.content",
       "settings": {
         "container": "container",
