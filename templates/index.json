@@ -295,7 +295,7 @@
         "color_co_button": "#ffffff",
         "color_co_button_hover": "#ffffff",
         "collection_per_row": 3,
-        "grid_gap": 5,
+        "grid_gap": 30,
         "display_arrow": true,
         "display_dots": false,
         "mg_top_desktop": 50,
