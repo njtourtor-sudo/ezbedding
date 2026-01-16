@@ -252,7 +252,7 @@
       ],
       "custom_css": [
         ".collection-list__item {margin-top: 24px;}",
-        "@media (max-width: 767px) {.halo-block-content.collection-list-slider.style_2 {--grid-gap: 15px; --item-per-row: 2; }.collection-list__item {width: calc(50% - var(--grid-gap)); margin: 0 var(--grid-gap) / 2 var(--grid-gap) / 2 0; }.collection-list__item:nth-child(2n+1) {margin-left: var(--grid-gap); }.collection-list__item:nth-child(2n) {margin-right: var(--grid-gap); }}"
+        "@media (max-width: 467px) {.halo-block-content.collection-list-slider.style_2 {--grid-gap: 15px; --item-per-row: 2; } .collection-list__item {width: calc(50% - var(--grid-gap)); margin: 0 var(--grid-gap) / 2 var(--grid-gap) / 2 0; } .collection-list__item:nth-child(2n + 1) {margin-left: var(--grid-gap); } .collection-list__item:nth-child(2n) {margin-right: var(--grid-gap); }}"
       ],
       "name": "t:sections.main-list-collections.settings.header__2.content",
       "settings": {
