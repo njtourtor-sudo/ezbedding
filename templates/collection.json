@@ -60,7 +60,7 @@
           "type": "category",
           "settings": {
             "heading": "Categories",
-            "type": "3_level",
+            "type": "1_level",
             "link_list": "product-category-sidebar"
           }
         },
